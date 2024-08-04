@@ -1,0 +1,83 @@
+{
+    "testimonials":[
+        {
+          "name": "Mai Hong Ha",
+          "rating": "Excellent",
+          "message": "SilverLeaf has made recruitment a breeze! We've filled open positions with qualified candidates in record time.",
+          "country": "VN"
+        },
+        {
+          "name": "Valeria Diaz de Leon",
+          "rating": "Great",
+          "message": "SilverLeaf is a lifesaver for small businesses! We've found excellent talent while staying within budget.",
+          "country": "MX"
+        },
+        {
+          "name": "Ivan Sokolov",
+          "rating": "Excellent",
+          "message": "SilverLeaf's smart matching helped me land my dream job! This app is a game-changer for job seekers.",
+          "country": "RU"
+        },
+        {
+          "name": "Hiro Nakamura",
+          "rating": "Good",
+          "message": "SilverLeaf made finding a job that utilizes my skills a breeze. This app is a great resource for job seekers.",
+          "country": "JP"
+        },
+        {
+          "name": "Kiran Malhotra",
+          "rating": "Great",
+          "message": "SilverLeaf has revolutionized recruitment for our company. We've found the best talent quickly and efficiently.",
+          "country": "IN"
+        },
+        {
+          "name": "Clara López Mendoza",
+          "rating": "Excellent",
+          "message": "Finding top talent has never been easier! SilverLeaf is a must-have for any business looking to grow.",
+          "country": "AR"
+        },
+        {
+          "name": "Marco Lombardi",
+          "rating": "Good",
+          "message": "SilverLeaf helped me find a job that aligns perfectly with my passion and skills. This app is a fantastic tool.",
+          "country": "IT"
+        },
+        {
+          "name": "Chen Xing",
+          "rating": "Great",
+          "message": "SilverLeaf has saved our company countless hours in finding the right candidates. It's a true asset to our team.",
+          "country": "CN"
+        },
+        {
+          "name": "Miguel Santos Oliveira",
+          "rating": "Excellent",
+          "message": "Thanks to SilverLeaf, I found a job I love that allows me a great work-life balance.",
+          "country": "BR"
+        },
+        {
+          "name": "Zofia Wisniewska",
+          "rating": "Good",
+          "message": "SilverLeaf is a game-changer for both employers and job seekers. It streamlines the hiring process significantly.",
+          "country": "PL"
+        },
+        {
+          "name": "Jakob Schmidt",
+          "rating": "Great",
+          "message": "SilverLeaf has connected us with great talent, making it an invaluable tool for our growing company.",
+          "country": "DE"
+        },
+        {
+          "name": "Nneka Ogu",
+          "rating": "Great",
+          "message": "SilverLeaf has revolutionized recruitment for our business. We've found qualified candidates quickly and efficiently.",
+          "country": "NG"
+        },
+        {
+          "name": "Emilia Schmidt",
+          "rating": "Excellent",
+          "message": "SilverLeaf's innovative platform helped me find a job that aligns with my career goals perfectly. Highly recommend!",
+          "country": "DE"
+        }
+      ]
+}
+  

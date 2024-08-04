@@ -1,0 +1,7 @@
+.appNavBar{
+    background-color: whitesmoke;
+    border-bottom: 1px solid black;
+    @media (prefers-color-scheme: dark){
+        background-color: rgb(33, 38, 49);
+    }
+}
